@@ -1,0 +1,12 @@
+---
+title: "lab_7_sd"
+author: "Sean Denny"
+date: "11/14/2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I'm Sean. Hello! 
